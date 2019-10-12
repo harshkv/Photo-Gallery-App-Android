@@ -2,3 +2,9 @@ In Photo Gallery application, by making RESTful API Calls that retrieves a text 
 
 The application consists of a single activity that enables the user to download and view online photos in a loop.
 All error conditions handled in Toast messages.
+
+
+![alt text](https://raw.githubusercontent.com/harshkv/Photo-Gallery-App-Android/master/sh1.png)
+
+
+![alt text](https://raw.githubusercontent.com/harshkv/Photo-Gallery-App-Android/master/sh2.png)
